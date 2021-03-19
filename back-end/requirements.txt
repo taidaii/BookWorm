@@ -4,4 +4,4 @@ django-bootstrap3==14.1.0
 django-cors-headers==3.4.0
 django-extensions==3.0.2
 django-formtools==2.2
-djangorestframework==3.11.0
+djangorestframework==3.11.2
